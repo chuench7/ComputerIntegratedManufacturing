@@ -1,5 +1,4 @@
 # ComputerIntegratedManufacturing
 
-This will contain all the code in the CIM subject by Chong Ming Chuen A19MJ0024.
+![image](https://github.com/chuench7/ComputerIntegratedManufacturing/assets/131155198/7e464978-13de-4f67-8148-39e104f39f02)
 
-Please visit the branches to refer on specific topics.
