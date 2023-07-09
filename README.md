@@ -1,5 +1,8 @@
 # ComputerIntegratedManufacturing
 
-This will contain all the code in the CIM subject by Chong Ming Chuen A19MJ0024.
+This contain the project for the Toy Factory Assembly Line Simulation using Factory I/O. Attached file with Project Report, Factory I/O design and Control I/O files.
 
-Please visit the branches to refer on specific topics.
+Teammates:
+1) Chong Ming Chuen A19MJ0024 
+2) Chuo Sing Jean A19MJ0026
+3) Tan Jin Wen A19MJ0128
